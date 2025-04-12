@@ -12,7 +12,7 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 ##  Tools & Technologies
 
 - **MySQL Workbench** – for data extraction and schema setup.
-- **Microsoft Excel** – for pivot tables and formatting and final calculations
+- **Microsoft Excel** – for pivot tables,formatting and final calculations
 - **Power BI Desktop** – for building the interactive dashboards
 
 ---

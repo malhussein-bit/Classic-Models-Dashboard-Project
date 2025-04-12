@@ -29,7 +29,7 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
      - Customer sales trends and running totals
      - Over-credit customers after factoring in payments
 
-   → See all queries that answer the above questions [`MySQL_Query/project_query.sql`](./MySQL_Query/project_query.sql)
+   → See all queries that answered above questions [`MySQL_Query/project_query.sql`](./MySQL_Query/project_query.sql)
 
 2. **Data Preparation in Excel**  
    - SQL query results were copied into Excel
@@ -50,7 +50,7 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 > _(Upload and update this section with your screenshot once ready)_
 
 ![Dashboard Screenshot](./Screenshots/dashboard_screenshot.png)
-
+https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/Screenshots/dashboard_screenshot.png/Sales.png
 ---
 
 

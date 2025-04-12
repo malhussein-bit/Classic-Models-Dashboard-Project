@@ -33,7 +33,8 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 2. **Data Preparation in Excel**  
    - SQL query results were copied into Excel
    - Pivot tables and charts were built for exploration and pre-cleaning  
-   → See [`Excel_Data/cleaned_data.xlsx`](./Excel_Data/cleaned_data.xlsx)
+   → See See the Excel data file here: [Classic Models Analysis.xlsx](./Excel_Data/Classic%20Models%20Analysis.xlsx)
+
 
 3. **Power BI Dashboard**  
    - Excel file used as data source in Power BI

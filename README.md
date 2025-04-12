@@ -1,6 +1,6 @@
-# 📊 Classic Models Power BI Dashboard
+#  Classic Models Power BI Dashboard
 
-## 📝 Project Summary
+##  Project Summary
 
 This project analyzes sales transactions from the "Classic Models" database, which includes a variety of product lines such as Motorcycles, Planes, Ships, Trains, Trucks, Buses, and Vintage Cars. The objective is to extract business insights by analyzing KPIs like total sales, net profit, sales by office country, and customer location.
 
@@ -8,7 +8,7 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **MySQL Workbench** – for data extraction and schema setup
 - **Microsoft Excel** – for pivot tables and formatting
@@ -16,7 +16,7 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 
 ---
 
-## 🔁 Workflow Overview
+##  Workflow Overview
 
 1. **Database Setup & Querying**  
    - A schema was created using a SQL script in MySQL Workbench.
@@ -44,7 +44,7 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 > _(Upload and update this section with your screenshot once ready)_
 
@@ -52,10 +52,8 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 
 ---
 
-## 📁 Project Structure
 
-
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 1. Download and install **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)**
 2. Clone or download this repository
@@ -63,19 +61,19 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - The USA has the highest overall sales value
-- 🚗 Classic Cars dominate in total sales, generating over **$3.5 million**
-- 🏢 The USA office outperformed all others in sales figures
+-  Classic Cars dominate in total sales, generating over **$3.5 million**
+-  The USA office outperformed all others in sales figures
 
 ---
 
-## 💼 About Me
+##  About Me
 
 I’m an aspiring **Data Analyst** passionate about transforming data into insights through clean storytelling and visuals.
 
-- 💻 [GitHub](https://github.com/malhussein-bit)
+-  [GitHub](https://github.com/malhussein-bit)
 
 ---
 

@@ -57,16 +57,6 @@ https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/Scr
 
 
 
-
-![Net Profit](https://github.com/user-attachments/assets/4100c482-b293-4c13-a0c3-72e92860516c)
-
-
-
-
-
-
-
-
 ![Classsic Models Page 2 SS](https://github.com/user-attachments/assets/ccb74a42-ab12-496f-b4c4-e4b102953f1d)
 
 ---

@@ -52,9 +52,13 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 ![Dashboard Screenshot](./Screenshots/dashboard_screenshot.png)
 https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/Screenshots/dashboard_screenshot.png/Sales.png
 
+
 ![Dashboard Preview](./Screenshots/dashboard-screenshot.png)
 https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/issues
+
+![Net Profit](https://github.com/user-attachments/assets/4100c482-b293-4c13-a0c3-72e92860516c)
 ---
+
 
 
 ##  How to Run This Project

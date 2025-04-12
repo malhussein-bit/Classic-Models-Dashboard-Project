@@ -2,7 +2,7 @@
 
 ##  Project Summary
 
-This project analyzes sales transactions from the "Classic Models" database, which show sales trends and net profit for a variety of product lines such as Motorcycles, Planes, Ships, Trains, Trucks, Buses, and Vintage Cars. The objective is to extract business insights by analyzing KPIs like total sales, net profit, sales by office country, and customer location.
+This project analyzes sales transactions from the "Classic Models" database, which show sales trends and net profit for a variety of product lines such as Classic Cars, Motorcycles, Planes, Ships, Trains, Trucks, Buses, and Vintage Cars. The objective is to extract business insights by analyzing KPIs like total sales, net profit, sales by office country, and customer location.
 The company would then be able to plan marketiing campans according the the final findings of the report a nd dashboard.
 
 This dashboard simulates how raw SQL-based data can be transformed into actionable insights using Excel and Power BI.

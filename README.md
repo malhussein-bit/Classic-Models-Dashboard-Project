@@ -20,7 +20,7 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 ##  Workflow Overview
 
 1. **Database Setup & Querying**  
-   - A schema was created using a SQL script in MySQL Workbench, See Link to Query  
+   - A schema was created using a SQL script in MySQL Workbench, See Link to Query  https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/MySQL_Query/project_query.sql/Script%2Bfor%2BClassic%2BModels%20Create%20Database.txt
    - SQL queries answered several key business questions:
      - Product sales overview for 2004 by product name
      - Product pairings purchased together

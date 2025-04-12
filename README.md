@@ -49,11 +49,10 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 
 > _(Upload and update this section with your screenshot once ready)_
 
-https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/Screenshots/dashboard_screenshot.png/Sales.png
 
 
 
-![Net Profit](https://github.com/user-attachments/assets/b8948b96-90d9-467c-9ea6-e57c9bdb847c)
+![Sales](https://github.com/user-attachments/assets/f5c062fa-ff5a-41f2-9f83-3a74606978d0)
 
 
 
@@ -73,10 +72,12 @@ https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/Scr
 
 ##  Key Insights
 
-- The USA has the highest overall sales value
--  Classic Cars dominate in total sales, generating over **$3.5 million**
--  The USA office outperformed all others in sales figures
-
+- Total Company Sales  **$ 9.6 M**
+- Total Uniuque Orders  **326**
+- The average Order Aamount **$29.5 k**
+- The biggest seller of all Productl lines **Classic Cars- $ 3.9 M**
+- The USA Sales Office has the highest overall sales value
+  
 ---
 
 ##  About Me

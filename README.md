@@ -2,8 +2,8 @@
 
 ##  Project Summary
 
-This project analyzes sales transactions from the "Classic Models" database, which show sales trends and net profit for a variety of product lines such as Classic Cars, Motorcycles, Planes, Ships, Trains, Trucks, Buses, and Vintage Cars. The objective is to extract business insights by analyzing KPIs like total sales, net profit, sales by office country, and customer location.
-The company would then be able to plan marketiing campans according the the final findings of the report a nd dashboard.
+This project aim to analyzes sales transactions from the "Classic Models" database, showing sales trends and net profit for a variety of product lines such as Classic Cars, Motorcycles, Planes, Ships, Trains, Trucks, Buses, and Vintage Cars. The objective is to extract business insights by analyzing KPIs like total sales, net profit, sales by office country, and customer location.
+The company would then be able to plan marketiing campains according the the final findings of the report.
 
 This dashboard simulates how raw SQL-based data can be transformed into actionable insights using Excel and Power BI.
 
@@ -20,11 +20,11 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 ##  Workflow Overview
 
 1. **Database Setup & Querying**  
-   - A schema of 8 different tabels was created using a SQL script in MySQL Workbench, 
-      - Table names: Product, Orders, Orderdetails, Customers, Employees, Ofices, Productlines, Payments.
+   - A schema of 8 different tabels was created using a SQL script in MySQL Workbench.
+      - **Table names**: Product, Orders, Orderdetails, Customers, Employees, Ofices, Productlines, Payments.
       - See Link to Query above  https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/MySQL_Query/project_query.sql/Script%2Bfor%2BClassic%2BModels%20Create%20Database.txt
         
-   - SQL queries were used to answer the  key business questions below:
+   - SQL queries were used to answer the follwong key business questions:
      
      - Product sales overview for 2004 by product name
      - Product pairings purchased together

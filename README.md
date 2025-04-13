@@ -24,7 +24,8 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
       - Table names: Product, Orders, Orderdetails, Customers, Employees, Ofices, Productlines, Payments.
       - See Link to Query above  https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/MySQL_Query/project_query.sql/Script%2Bfor%2BClassic%2BModels%20Create%20Database.txt
         
-   - SQL queries answered several key business questions:
+   - SQL queries were used to answer the  key business questions below:
+     
      - Product sales overview for 2004 by product name
      - Product pairings purchased together
      - Sales values and net profit by customer country
@@ -32,9 +33,9 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
      - Customer sales trends and running totals
      - Over-credit customers after factoring in payments
     
-     - CTE's , subqueries and windows were used to asnswe above questions 
+    CTE's , subqueries and windows were used to asnswer above questions 
 
-   → See all queries that answered above questions [`MySQL_Query/project_query.sql`](./MySQL_Query/project_query.sql)
+   → See all queries used to asnswer above questions [`MySQL_Query/project_query.sql`](./MySQL_Query/project_query.sql)
 
 2. **Data Preparation in Excel**  
    - SQL query results were copied into Excel
@@ -80,7 +81,7 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 - Total Company Sales  **$ 9.6 M**
 - Total Uniuque Orders  **326**
 - The average Order Aamount **$29.5 k**
-- The biggest seller of all Productl lines **Classic Cars- $ 3.9 M**
+- The biggest seller of all Product lines **Classic Cars- $ 3.9 M**
 - The USA Sales Office has the highest overall sales value
   
 ---

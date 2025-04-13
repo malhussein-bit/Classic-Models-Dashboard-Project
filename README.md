@@ -20,7 +20,10 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 ##  Workflow Overview
 
 1. **Database Setup & Querying**  
-   - A schema was created using a SQL script in MySQL Workbench, See Link to Query  https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/MySQL_Query/project_query.sql/Script%2Bfor%2BClassic%2BModels%20Create%20Database.txt
+   - A schema of 8 different tabels was created using a SQL script in MySQL Workbench, 
+      - Table names: Product, Orders, Orderdetails, Customers, Employees, Ofices, Productlines, Payments.
+      - See Link to Query above  https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/MySQL_Query/project_query.sql/Script%2Bfor%2BClassic%2BModels%20Create%20Database.txt
+        
    - SQL queries answered several key business questions:
      - Product sales overview for 2004 by product name
      - Product pairings purchased together
@@ -28,6 +31,8 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
      - Credit limits grouped with order and customer numbers
      - Customer sales trends and running totals
      - Over-credit customers after factoring in payments
+    
+     - CTE's , subqueries and windows were used to asnswe above questions 
 
    → See all queries that answered above questions [`MySQL_Query/project_query.sql`](./MySQL_Query/project_query.sql)
 

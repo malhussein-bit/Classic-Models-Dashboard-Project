@@ -22,8 +22,8 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 1. **Database Setup & Querying**  
    - A schema of 8 different tabels was created using a SQL script in MySQL Workbench.
       - **Table names**: Product, Orders, Orderdetails, Customers, Employees, Ofices, Productlines, Payments.
-      - See Link to Query above  https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/MySQL_Query/project_query.sql/Script%2Bfor%2BClassic%2BModels%20Create%20Database.txt
-        
+      - See 📄 [SQL Script to Create Classic Models Database](https://github.com/malhussein-bit/Classic-Models-Dashboard-Project/blob/main/MySQL_Query/project_query.sql/Script%2Bfor%2BClassic%2BModels%20Create%20Database.txt)
+
    - SQL queries were used to answer the follwong key business questions:
      
      - Product sales overview for 2004 by product name

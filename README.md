@@ -53,7 +53,7 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 
 ##  Dashboard Preview
 
-> _(Upload and update this section with your screenshot once ready)_
+
 
 
 

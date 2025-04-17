@@ -82,7 +82,7 @@ This dashboard simulates how raw SQL-based data can be transformed into actionab
 - Total Uniuque Orders  **326**
 - The average Order Amount **$29.5 k**
 - The biggest seller of all Product lines **Classic Cars- $ 3.9 M**
-- The USA Sales Office has the highest overall sales value
+- The USA Sales Office has the highest overall sales value **$ 3.5 M**
   
 ---
 
